@@ -9,7 +9,7 @@
 
   ##
   
-<p>Línguagens que uso/estou aprendendo :)</p>
+<p>Línguagens que uso/estou aprendendo. :)</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Pedro-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@
 <h1>Um pouco mais sobre mim. 🧑🏽❤</h1>
 <p>Sou um dev iniciante e estou no 2° período da faculdade de Sistemas de Informação.</p>
 
-<p>Nome: Pedro Henrique</p>
-<p>Idade: 19</p>
-<p>Moro em: Manaus, Brasil</p>
+<p>Nome: Pedro Henrique.</p>
+<p>Idade: 19.</p>
+<p>Moro em: Manaus, Brasil.</p>
 <p>Universidade: Graduação em Sistemas de Informação pela FAMETRO (Universidade Metropolitana de Manaus).</p>
