@@ -1,10 +1,10 @@
-### Olá, eu sou o Pedro 👋🏽
+### Hi, im Pedro 👋🏽
 
-📚 - Faço faculdade de: Sistemas de Informação | 2° período.
+📚 - undergradaute: Information System (IS)
 
-💻 - Estudando: HTML - CSS
+💻 - learning: HTML - CSS
 
-💁🏽‍♂️ - Pronomes: ele/dele.
+💁🏽‍♂️ - pronouns: he/him
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
